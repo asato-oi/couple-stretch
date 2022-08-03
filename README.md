@@ -1,6 +1,6 @@
 # サイトの URL
 
-https://asatooi.github.io/WrestlingStretch/
+https://couple-stretch.vercel.app/
 
 ## Position の番号について
 
